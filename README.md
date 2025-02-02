@@ -15,7 +15,7 @@ Welcome to **First Code Collaboration!** This repository is designed for **devel
 4. Commit your changes
 5. create a pull request (PR)!
 
-#### If you know another programming language or even a markup language like html you can write your first collaboration in your favorite programming languages.
+### If you know another programming language or even a markup language like html you can write your first collaboration in your favorite programming languages.
 4. Navigate to the **`languages/`** folder.  
 5. Find the file for your programming language (e.g., `python.md`, `javascript.md`).  
    - **If your language is missing, create a new file for it!**  
