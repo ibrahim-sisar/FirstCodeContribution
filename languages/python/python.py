@@ -1,4 +1,5 @@
 def main():
+  arr = [2,7,9,23,8,6,1,0,-1,5,4,3]
   # call your function
   pass
 
@@ -9,4 +10,6 @@ def main():
 Call your function inside the pre-existing main() function (which is already written in the file).
 """
 
+if __name__ == "__main__":
+  main()
 # 📢 Good luck and happy coding! 🚀
