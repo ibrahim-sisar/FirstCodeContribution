@@ -1,6 +1,6 @@
 def main():
   arr = [2,7,9,23,8,6,1,0,-1,5,4,3]
-  
+
 #name : Raghavendra31 and link : https://github.com/Raghavendra31
 
 def Raghavendra31():
@@ -21,3 +21,4 @@ if __name__ == "__main__":
   main()
   raghavendra31 = Raghavendra31()
 # 📢 Good luck and happy coding! 🚀
+
