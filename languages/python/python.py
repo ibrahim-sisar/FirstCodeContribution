@@ -1,5 +1,7 @@
 def main():
   arr = [2,7,9,23,8,6,1,0,-1,5,4,3]
+  # Call your function
+  print(AdarshPatil07(arr))
 
 #name : Raghavendra31 and link : https://github.com/Raghavendra31
 
@@ -16,6 +18,17 @@ def Raghavendra31():
  Name your function after your name, considering case sensitivity in the programming language.
 Call your function inside the pre-existing main() function (which is already written in the file).
 """
+
+
+# Name: Adarsh Patil
+# GitHub: https://github.com/adarshpatil-07
+def AdarshPatil07(arr):
+    max_value = arr[0]
+    for num in arr:
+        if num > max_value:
+            max_value = num
+    return max_value
+
 
 if __name__ == "__main__":
   main()
