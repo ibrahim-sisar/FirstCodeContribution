@@ -2,6 +2,7 @@ def main():
   arr = [2,7,9,23,8,6,1,0,-1,5,4,3]
   # Call your function
   print(AdarshPatil07(arr))
+  print(shikjazz(arr))
 
 #name : Raghavendra31 and link : https://github.com/Raghavendra31
 
@@ -28,6 +29,16 @@ def AdarshPatil07(arr):
         if num > max_value:
             max_value = num
     return max_value
+
+
+# Name: Shikhar Sharma
+# GitHub: https://github.com/shikjazz
+def shikjazz(arr):
+    largest = arr[0]
+    for num in arr:
+        if num > largest:
+            largest = num
+    return largest
 
 
 if __name__ == "__main__":
